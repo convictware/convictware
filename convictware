@@ -1042,7 +1042,7 @@ function library:Init(key)
         tabButton.AutoButtonColor = false
         tabButton.Font = Enum.Font.Code
         tabButton.Text = title
-        tabButton.TextColor3 = Color3.fromRGB(170, 170, 170)
+        tabButton.TextColor3 = Color3.fromRGB(159, 115, 255)
         tabButton.TextSize = 15.000
         tabButton.RichText = true
 
